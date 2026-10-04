@@ -1,1 +1,32 @@
-Last updated: 2026-10-04 17:03:29 WIB
+# MoneyPrinterTurbo
+
+
+
+## 📋 Overview
+
+This repository contains **218 files** and is built with the following technologies:
+
+Python, Docker
+
+## 🚀 Quick Start
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+## ✨ Features
+
+- 🐳 Docker support
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Python, Docker
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-04 18:20:05 WIB*
